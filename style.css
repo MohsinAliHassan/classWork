@@ -1,0 +1,113 @@
+body{
+    background-color: aquamarine;
+    padding: 0px;
+    margin: 0px;
+    overflow: auto;
+
+}
+
+
+li{
+    display:inline;
+    padding: 15PX;
+}
+a{
+    padding: 8px;
+    text-decoration: none;
+    color:white;
+    border: 1px solid rgb(92, 87, 87);
+    border-radius: 30PX;
+    background-color: rgb(34, 39, 39);
+}
+header{
+    height: 50px;
+    background-color: black;
+}
+
+ul{
+    padding: 15px;
+}
+a:hover{
+    background-color: chartreuse;
+    border-color: blue;
+    color: black;
+}
+
+div.two{
+
+    display: flex;
+    padding: 8px;
+    background-color: gray;
+}
+
+div.number{
+
+    float: right;
+    padding: 10px;
+    padding-left: 870px;
+
+}
+div.img{
+    padding-left: 40px;
+}
+
+
+div.three{
+    
+    display: flex;
+    background-color: rgb(184, 210, 233);
+
+}
+div.pic{
+
+        padding: 50px;
+        padding-right:340px ;
+    
+
+}
+
+div.head{
+
+    padding: 50px;
+    padding-left: 200px;
+    
+
+}
+
+p{
+    font-size: 25px;
+}
+div.butt{
+    padding: 20px;
+    padding-left: 150px;
+
+}
+button{
+    padding: 10px;
+    width: 170px;
+    background-color: aliceblue;
+    
+}
+button:hover{
+    color: rgb(255, 255, 255);
+    background-color:black ;
+    border: honeydew;
+    cursor: progress;
+}
+div.imgh{
+    background-image: url(4.jpg);
+    height: 400px;
+    width: 2000px;
+    color: yellow;
+    
+}
+div.her{
+    padding: 50px;
+    padding-left: 600px;
+    font-size: 40px;
+}
+div.but{
+    padding-left: 800px;
+    
+
+}
